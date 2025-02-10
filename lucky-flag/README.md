@@ -8,7 +8,7 @@ This challenge consists of a webpage with multiple "flag" buttons, where only on
 
 Since checking each button manually was impractical, I inspected the JavaScript code used in this web application.
 
-![JavaScript Code](Sources/javascript_code.png)
+![JavaScript Code](Sources/Javascript_code.png)
 
 ## 🚀 How to Solve
 
