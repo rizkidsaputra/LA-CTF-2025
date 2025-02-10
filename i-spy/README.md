@@ -79,7 +79,7 @@ Entering this token gives:
 
 ### 8. Sitemap.xml
 
-![Sitemap](image/sitemap.png)
+![Sitemap](image/Sitemap.png)
 
 Opening `/sitemap.xml` reveals another token. Inputting it leads to:
 
