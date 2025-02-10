@@ -2,13 +2,13 @@
 
 ## 🔍 Challenge Overview
 
-![Website Screenshot](image/preview.png)
+![Website Screenshot](source/preview.png)
 
 This challenge consists of a webpage with multiple "flag" buttons, where only one contains the actual flag.
 
 Since checking each button manually was impractical, I inspected the JavaScript code used in this web application.
 
-![JavaScript Code](image/javascript_code.png)
+![JavaScript Code](source/javascript_code.png)
 
 ## 🚀 How to Solve
 
