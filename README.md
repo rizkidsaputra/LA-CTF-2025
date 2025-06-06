@@ -28,7 +28,7 @@
 
 Each folder typically contains:
 
-- `README.md` with the writeup or a detailed `.md` file
+- `README.md` with the writeup
 - Source code (solver scripts, exploits, etc.)
 
 ---
